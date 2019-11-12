@@ -7,7 +7,7 @@ Guidelines for Android Pen Testing
 
 ## Dynamic Analysis
 
-## Network Trafiic Analyzer
+## Network Traffic Analyzer
 ### Netmonitor
 
 Advantages
