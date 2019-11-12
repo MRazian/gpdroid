@@ -1,14 +1,15 @@
 # gpdroid 
 Guidelines for Android Pen Testing
 
-## Online Tools
-
 ## Static Analysis
 
 ## Dynamic Analysis
 
 ## Network Traffic Analyzer
 ### Netmonitor
+
+Operational Environments
+* Installed on Android OS
 
 Advantages
 * Open source
