@@ -9,7 +9,8 @@ Guidelines for Android Pen Testing
 
 ## Network Trafiic Analyzer
 ### Netmonitor
-+Ppen source
++Open source
+
 Advantages:
 +Easy launching
 +Display trafic per app: so, you can check your desire app's traffic
