@@ -8,6 +8,9 @@ Guidelines for Android Pen Testing
 ## Network Traffic Analyzer
 ### Netmonitor
 
+Capabilities
+* Sniff (monitor) connections established by device
+
 Operational Environments
 * Installed on Android OS
 
