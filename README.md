@@ -9,12 +9,15 @@ Guidelines for Android Pen Testing
 
 ## Network Trafiic Analyzer
 ### Netmonitor
-+Open source
 
-Advantages:
-+Easy launching
-+Display trafic per app: so, you can check your desire app's traffic
-+Display all traffic outgoing your phone either browser, applications, websocket, and so forth
+Advantages
+* Open source
+* Do not require root access
+* Easy launching
+* Display trafic per app: so, you can check your desire app's traffic
+* Display all traffic outgoing your device
+  * either browser, applications, websocket, and so forth
+* Shallow learning curve  
 
-Limitation
-+Unable to decrypt the SSL traffic
+Limitations
+- Unable to decrypt the SSL traffic
