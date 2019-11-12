@@ -14,6 +14,9 @@ Capabilities
 Operational Environments
 * Installed on Android OS
 
+Whereis
+* Download from [F-Droid](https://f-droid.org/en/packages/org.secuso.privacyfriendlynetmonitor/)
+
 Advantages
 * Open source
 * Do not require root access
