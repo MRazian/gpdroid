@@ -1,5 +1,5 @@
 # gpdroid 
-Guidelines for Android Pen Testing
+Guidelines for Android Pen Testing. This collection includes tools for Static analysis, Dynamic Analysis, Network Traffic Analyzer, and Anti-viruses as well as checklists for security assessment.
 
 # Static Analysis
 
