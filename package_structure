@@ -1,0 +1,6 @@
+Android Application and Package Overview
+
+APK is a standard ZIP file format and can be extracted using any unzip tools. After unzipping, it may contain the following files/directories:
+
+META-INF directory
+
