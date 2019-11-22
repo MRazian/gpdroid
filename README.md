@@ -32,5 +32,11 @@ Guidelines for Android Pen Testing. This collection includes tools for Static an
 # Anti-viruses
 
 # Emulators
+Genymotion
+
+BlueStacks Android emulator
+
+Android Studio's emulator 
+
 
 # Security assessment checklists
