@@ -40,3 +40,4 @@ Android Studio's emulator
 
 
 # Security assessment checklists
+Mobile Security Testing Guide (MSTG). Github [page](https://github.com/OWASP/owasp-mstg)
