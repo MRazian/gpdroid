@@ -8,16 +8,16 @@ Guidelines for Android Pen Testing. This collection includes tools for Static an
 # Network Traffic Analyzer
 ## Netmonitor
 
-### Capabilities
+#### Capabilities
 * Sniff (monitor) connections established by device
 
-### Operational Environments
+#### Operational Environments
 * Installed on Android OS
 
-### Whereis
+#### Whereis
 * Download from [F-Droid](https://f-droid.org/en/packages/org.secuso.privacyfriendlynetmonitor/)
 
-### Advantages
+#### Advantages
 * Open source
 * Do not require root access
 * Easy launching
@@ -26,7 +26,7 @@ Guidelines for Android Pen Testing. This collection includes tools for Static an
   * either browser, applications, websocket, and so forth
 * Shallow learning curve  
 
-### Limitations
+#### Limitations
 - Unable to decrypt the SSL traffic
 
 # Anti-viruses
