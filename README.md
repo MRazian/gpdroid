@@ -2,8 +2,28 @@
 Guidelines for Android Pen Testing. This collection includes tools for Static analysis, Dynamic Analysis, Network Traffic Analyzer, and Anti-viruses as well as checklists for security assessment.
 
 # Static Analysis
+## Mobsf
+We recommend to utilize this tool.
+
+#### Capabilities
+* A complete assessment of application security
+
+#### Operational Environments
+* It is based on Python (Django framework).
+
+#### Whereis
+* Download from [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF.git)
+
+#### Advantages
+* Open source
+* Do not require root access
+* GUI while accessing scan results
+
+
+#### Limitations
 
 # Dynamic Analysis
+
 
 # Network Traffic Analyzer
 ## Netmonitor
