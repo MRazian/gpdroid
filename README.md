@@ -17,12 +17,27 @@ We recommend to utilize this tool.
 #### Advantages
 * Open source
 * Do not require root access
-* GUI while accessing scan results
+* It provides a user-friendly report
 
 
 #### Limitations
 
 # Dynamic Analysis
+## Drozer
+Dynamic security assessment for Android.
+#### Capabilities
+* Check vulnerability in components
+* Create exploit for existing vulnerability
+
+#### Operational Environments
+* It comes with an agent app you need to install it on the mobile and so, the drozer interacts with it using adb.
+
+#### Whereis
+* Download from [drozer](https://github.com/FSecureLABS/drozer.git)
+
+#### Advantages
+* Open source
+* Does not require root access
 
 
 # Network Traffic Analyzer
